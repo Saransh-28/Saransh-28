@@ -1,29 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Saransh
+#### Data Scientist | Quant Researcher | Programmer
+I'm a Computer Science student with a strong interest in machine learning, artificial intelligence, programming, quantitative finance, and software engineering.
 
-<!--
-**Saransh-28/Saransh-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="left">Hi 👋! My name is Saransh and I'm a Data Scientist | Quant Researcher | Programmer from India...</h1>
-
-###
-
-<br clear="both">
-
-<p align="left">I'm a Computer Science student with a strong interest in machine learning, artificial intelligence, programming, quantitative finance, and software engineering. I'm particularly fascinated by the world of high-frequency trading systems (HFTs). With experience in data analysis, modeling, and software development, I thrive on solving complex problems and enjoy tackling challenging tasks. My competitive drive and ambition make me an ideal candidate for teams looking to innovate and excel in the fields of machine learning, AI, programming, quantitative finance, and HFTs. I'm highly motivated, talented, and always eager to learn and grow.</p>
-
-###
-
+Skills: 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -50,11 +29,12 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
-###
 
-<img align="right" height="124" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif"  />
+- 🔭 I’m currently working on my Programming and Analytical Skills 
+- 🌱 I’m currently learning Advance Deep Learning and potential implementation in the finance sector.  
+- 👯 I’m looking to collaborate on creating Cutting edge Algorithms, Leveraging Big Data. 
+- 📫 How to reach me: discord , email , LinkedIn
 
-###
 
 <div align="left">
   <a href="saranshbhandari1900@gmail.com" target="_blank">
@@ -68,19 +48,17 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-###
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saransh-28&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saransh-28&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <p></p>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh-28&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Saransh-28&show_icons=true&theme=radical" />
+</a>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Saransh-28/Saransh-28/output/snake.svg" alt="Snake animation" />
-
-###
+<p></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://streak-stats.demolab.com/?user=Saransh-28&show_icons=true&theme=radical" />
+</a>
